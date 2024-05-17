@@ -47,3 +47,23 @@
 //     }
 // }
 
+/*--------------------------------------------------------------------------------*/ 
+/*-------------------------------- Polymorphism ----------------------------------*/
+/*-------------------------------- 1. Method Overloading ----------------------------------*/
+// class Main {
+//     public static void main(String[] args) {
+//         calcSum(2,3);
+//         calcSum(2,3, 3);
+//     }
+
+//     // first function
+//     static void calcSum(int a, int b) {
+//         System.out.println(a + b);
+//     }
+
+//     // second function but different number of parameters
+//     static void calcSum(int a, int b, int c) {
+//         System.out.println(a + b + c);
+//     }
+// }
+
