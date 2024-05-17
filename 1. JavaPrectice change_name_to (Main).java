@@ -1249,7 +1249,7 @@
 // }
 
 // ----------------------- Functions (in Java) -----------------------------------
-// ----------------------- Calculate ODD Number till and Return Sum -----------------------------------
+// ----------------------- Calculate ODD Number till n and Return Sum -----------------------------------
 
 // import java.util.*;
 
@@ -1403,8 +1403,8 @@
 // }
 
 // ----------------------- Functions (in Java) -----------------------------------
-// ----------------------- program to enter the numbers till the user wants and at the end it ---------------------------------
-// ------------------------should display the count of positive, negative and zeros entered -----------------------------------
+// ----------------------- program to enter the numbers till the user wants and at the end ---------------------------------
+// ------------------------ it should display the count of positive, negative and zeros entered -----------------------------------
 
 
 // import java.util.*;
