@@ -198,3 +198,10 @@
 //     }
 // }
 
+/*----------------------------------------------------------------------------------------*/
+/*-------------------------------- Abstraction ----------------------------------*/
+/*** Abstraction is the process of hiding implementation details from the user; 
+     only the most essential code is visible for the user. ***/
+/*** Abstraction is achieved by 2 methods : 1. abstract class
+                                            2. interface
+***/
