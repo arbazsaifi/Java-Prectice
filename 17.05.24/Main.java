@@ -89,3 +89,30 @@
 //     }
 // }
 
+/*--------------------------------------------------------------------------------*/ 
+/*-------------------------------- Constructor -----------------------------------*/
+/*** Constructor having saming name as class ***/
+// class Main {
+//     public static void main (String args[]) {
+//         // object of anotherClass class
+//         anotherClass cons = new anotherClass(10, 2);
+
+//         cons.sum();
+//     }
+// }
+
+// class anotherClass {
+
+//     int a, b;
+
+//     // Constructor of Another class
+//     anotherClass(int a, int b) { 
+//         this.a = a;
+//         this.b = b;
+//     }
+
+//     void sum() {
+//         System.out.println(a+b);
+//     }
+// }
+
