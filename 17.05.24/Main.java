@@ -171,3 +171,30 @@
 
 // }
 
+/*----------------------------------------------------------------------------------------*/
+/*-------------------------------- Encapsulation ----------------------------------*/
+/*** Encapsulation is the technique of wrapping the data (fields) and code (methods) 
+     together as a single unit. (class is the best Example of Encapsulation) ***/
+// class Main {
+//     public static void main(String[] args) {
+//         person myPerson = new person();
+
+//         myPerson.setName("Arbaz");
+//         String finalName = myPerson.getName();
+//         System.out.println(finalName);
+//     }
+// }
+
+// class person {
+//     private String name;
+
+//     public String getName() {
+//         return name;
+//     }
+
+//     public String setName(String name) {
+//         this.name = name;
+//         return name;
+//     }
+// }
+
