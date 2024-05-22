@@ -205,3 +205,24 @@
 /*** Abstraction is achieved by 2 methods : 1. abstract class
                                             2. interface
 ***/
+
+/*----------------------------------------------------------------------------------------*/
+/*-------------------------------- abstract class ----------------------------------*/
+/* A class contains abstract keyword in its declaration is known as abstract class.*/
+/* 1. We can not create object for abstract class */ 
+/* 2. It may or may not contains abstract methods */ 
+
+abstract class man {
+     void sum() {
+          System.out.println(20+30);
+     }
+     int mm = 10;
+}
+
+public class Main {
+     public static void main(String[] args) {
+          man m = new man();
+
+          m.sum();
+     }
+}
